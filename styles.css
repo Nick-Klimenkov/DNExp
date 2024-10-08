@@ -303,14 +303,16 @@ h1, h2 {
     justify-content: space-between;
     align-items: center;
     column-gap: 20px;
+    margin: 0 auto;
 }
 
 .header-menu-list {
+    justify-content: center;
     display: flex;
     column-gap: 50px;
     margin-left: 200px;
     margin-top: 25px;
-    border-bottom: 1px solid darkgrey;
+
 
 }
 
